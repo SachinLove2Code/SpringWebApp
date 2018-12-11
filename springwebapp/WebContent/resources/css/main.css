@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+ .addform {
+   width:1000px;
+   padding: 10px;
+   border: 1px solid blue;
+ 
+ }
+
+input[type-text]{
+    width:250px;
+}
+
+.lable{
+  text-align: rigth;
+  vertical-align: top;
+
+}
+
+.control{
+	margin-left: 10px;
+
+	}
+	
+.error{
+	font-size: small;
+	color: red;
+	margin-left: 10px;
+}	
+.valid{
+	font-size: small;
+	color: green;
+	margin-left: 10px;
+}
+	table.customers{
+	   padding: 20px;
+	   border: 1px solid red;
+	   
+	}
